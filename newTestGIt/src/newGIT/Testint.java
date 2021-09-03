@@ -7,7 +7,7 @@ public class Testint {
 		int c= a+b;
 		
 		
-		System.out.println(c);
+		System.out.println("TThe addeed:"+c);
 	}
 
 	
