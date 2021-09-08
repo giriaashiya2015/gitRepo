@@ -2,15 +2,15 @@ package newGIT;
 
 public class Testint {
 	public static void main(String[] args) {
-		int a = 12
-		int b = 34
+		int a = 12;
+		int b = 34;
 		int c= a+b;
 		
 		
 		System.out.println("TThe addeed:"+c);
 		System.out.println("Hello workd");
 		
-		System.out.println("Thos os fpr sfg ");
+		System.out.println("This is for the testing purpose ");
 	}
 
 	
